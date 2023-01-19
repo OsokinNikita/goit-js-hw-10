@@ -29,7 +29,7 @@ body {
   border-radius: 6px;
   padding-top: 30px;
   padding-bottom: 15px;
-  background-color: rgb(245, 188, 56);
+  background-color: rgb(212, 0, 255);
 }
 
 li {
@@ -39,16 +39,16 @@ li {
 input {
   border-radius: 6px;
   border: solid 3px;
-  border-color: rgba(145, 174, 0, 0.866);
-  -webkit-box-shadow: 9px 9px 18px 4px rgba(205, 255, 40, 0.634);
-  box-shadow: 9px 9px 18px 4px rgba(128, 171, 85, 0.6);
+  border-color: rgb(4, 247, 255);
+  -webkit-box-shadow: 9px 9px 18px 4px rgba(40, 148, 255, 0.881);
+  box-shadow: 9px 9px 18px 4px rgba(85, 94, 171, 0.6);
 }
 
 input:hover,
 input:focus {
-  border-color: rgba(20, 224, 102, 0.827);
-  -webkit-box-shadow: 9px 9px 18px 4px rgba(0, 255, 115, 0.6);
-  box-shadow: 9px 9px 18px 4px rgba(1, 253, 68, 0.6);
+  border-color: rgb(0, 255, 4);
+  -webkit-box-shadow: 9px 9px 18px 4px rgb(38, 255, 0);
+  box-shadow: 9px 9px 18px 4px rgb(1, 253, 18);
 }
 
 .list-item {
@@ -56,7 +56,7 @@ input:focus {
   align-items: center;
   padding-top: 30px;
   padding-bottom: 15px;
-  background-color: rgb(255, 127, 253);
+  background-color: rgb(175, 255, 2);
   margin-left: 180px;
   margin-right: 180px;
 }
