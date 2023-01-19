@@ -39,9 +39,9 @@ li {
 input {
   border-radius: 6px;
   border: solid 3px;
-  border-color: rgb(4, 247, 255);
+  border-color: rgb(40, 148, 255);
   -webkit-box-shadow: 9px 9px 18px 4px rgba(40, 148, 255, 0.881);
-  box-shadow: 9px 9px 18px 4px rgba(85, 94, 171, 0.6);
+  box-shadow: 9px 9px 18px 4px rgba(40, 148, 255, 0.6);
 }
 
 input:hover,
@@ -56,7 +56,7 @@ input:focus {
   align-items: center;
   padding-top: 30px;
   padding-bottom: 15px;
-  background-color: rgb(175, 255, 2);
+  background-color: rgb(2, 255, 251);
   margin-left: 180px;
   margin-right: 180px;
 }
